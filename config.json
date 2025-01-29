@@ -1,0 +1,8 @@
+{
+  "sensitive_fields": [
+    "accessKey",
+    "secretAccessKey",
+    "access-key",
+    "secret-access-key"
+  ]
+}
